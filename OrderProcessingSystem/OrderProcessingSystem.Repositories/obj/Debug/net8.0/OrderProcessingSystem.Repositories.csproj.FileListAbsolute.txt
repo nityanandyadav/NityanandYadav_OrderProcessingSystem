@@ -1,0 +1,16 @@
+C:\Users\nitya\source\repos\NityanandYadav_OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem.Repositories\bin\Debug\net8.0\OrderProcessingSystem.Repositories.deps.json
+C:\Users\nitya\source\repos\NityanandYadav_OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem.Repositories\bin\Debug\net8.0\OrderProcessingSystem.Repositories.dll
+C:\Users\nitya\source\repos\NityanandYadav_OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem.Repositories\bin\Debug\net8.0\OrderProcessingSystem.Repositories.pdb
+C:\Users\nitya\source\repos\NityanandYadav_OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem.Repositories\bin\Debug\net8.0\OrderProcessingSystem.Data.dll
+C:\Users\nitya\source\repos\NityanandYadav_OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem.Repositories\bin\Debug\net8.0\OrderProcessingSystem.Data.pdb
+C:\Users\nitya\source\repos\NityanandYadav_OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem.Repositories\obj\Debug\net8.0\OrderProcessingSystem.Repositories.csproj.AssemblyReference.cache
+C:\Users\nitya\source\repos\NityanandYadav_OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem.Repositories\obj\Debug\net8.0\OrderProcessingSystem.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitya\source\repos\NityanandYadav_OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem.Repositories\obj\Debug\net8.0\OrderProcessingSystem.Repositories.AssemblyInfoInputs.cache
+C:\Users\nitya\source\repos\NityanandYadav_OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem.Repositories\obj\Debug\net8.0\OrderProcessingSystem.Repositories.AssemblyInfo.cs
+C:\Users\nitya\source\repos\NityanandYadav_OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem.Repositories\obj\Debug\net8.0\OrderProcessingSystem.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\nitya\source\repos\NityanandYadav_OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem.Repositories\obj\Debug\net8.0\OrderProcessingSystem.Repositories.sourcelink.json
+C:\Users\nitya\source\repos\NityanandYadav_OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem.Repositories\obj\Debug\net8.0\OrderPro.0E18E66A.Up2Date
+C:\Users\nitya\source\repos\NityanandYadav_OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem.Repositories\obj\Debug\net8.0\OrderProcessingSystem.Repositories.dll
+C:\Users\nitya\source\repos\NityanandYadav_OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem.Repositories\obj\Debug\net8.0\refint\OrderProcessingSystem.Repositories.dll
+C:\Users\nitya\source\repos\NityanandYadav_OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem.Repositories\obj\Debug\net8.0\OrderProcessingSystem.Repositories.pdb
+C:\Users\nitya\source\repos\NityanandYadav_OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem.Repositories\obj\Debug\net8.0\ref\OrderProcessingSystem.Repositories.dll
